@@ -1,3 +1,11 @@
+= 3.6.1 =
+
+* Test with WP6.5
+
+= 3.6.0 =
+
+* Add control for lists typography (Fonts Plugin → Advanced Settings → Content → Lists)
+
 = 3.5.1 =
 
 * Fix error where all subsets of a font could be removed.
