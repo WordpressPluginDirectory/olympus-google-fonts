@@ -1,3 +1,11 @@
+= 3.7.5 =
+
+* Fix issue with uploaded fonts not displaying on the front end
+
+= 3.7.4 =
+
+* Fix array offset error when custom font is used and then deleted
+
 = 3.7.3 =
 
 * Fix unnecessary data being written to debug.log
